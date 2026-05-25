@@ -238,5 +238,14 @@
     "aave.com": "aave.com.png",
     "euler.finance": "blank.png",
     "morpho.org": "morpho.org.ico",
-    "myanimelist.net": "myanimelist.net.ico"
+    "myanimelist.net": "myanimelist.net.ico",
+    "namecheap.com": "blank.png",
+    "godaddy.com": "blank.png",
+    "hetzner.com": "hetzner.com.ico",
+    "cloudlinux.com": "cloudlinux.com.ico",
+    "bitninja.com": "bitninja.com.ico",
+    "ui.com": "blank.png",
+    "ieee.org": "ieee.org.ico",
+    "stremio.com": "stremio.com.ico",
+    "deepseek.com": "deepseek.com.ico"
 }
